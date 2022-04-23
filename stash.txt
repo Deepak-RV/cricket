@@ -1,0 +1,4 @@
+for stash
+
+stash mod 1
+stash mod 2
